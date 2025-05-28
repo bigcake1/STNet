@@ -10,9 +10,5 @@ Attention Mechanism: Integrates CBAM attention modules to enhance the model's fo
 Evaluation Metrics: Provides comprehensive evaluation using R² score, MAE, and other metrics with visualizations
 Visualization: Generates training curves, scatter plots, and line graphs for result analysis
 
-# Installation and Usage
-## Environment Requirements
-Python 3.8+
-PyTorch 1.8+
-NumPy, Pandas, Scikit-learn
-Matplotlib, CSV
+## Model Architecture
+![Image](STNet.png)
